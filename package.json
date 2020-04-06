@@ -1,0 +1,17 @@
+{
+    "name": "vscode-freeze",
+    "version": "1.0.0",
+    "description": "exports freezed Object for vs code intellisense",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "GNU",
+    "prettier": {
+        "printWidth": 120,
+        "singleQuote": true,
+        "tabWidth": 4,
+        "trailingComma": "none"
+    }
+}
